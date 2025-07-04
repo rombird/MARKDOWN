@@ -61,7 +61,10 @@ HELLO WORLD<br>
 <a href="https://www.figma.com/design/l29jaB1gN1cKyTcwDkgQLP/%EB%B8%8C%EB%9E%9C%EB%93%9C%EC%95%8C%EB%B0%94_%ED%94%84%EB%A0%88%EC%9E%84?node-id=0-1&t=LL1K2sAzvZG3EQEn-1" tasrget="_blank">새탭 열고 이동 안됨</a>
 
 ## 이미지
-![제목](./lion.jpg)
+<!-- ![제목](경로), <img src="경로" width="너비", height="높이" alt=""/> -->  
+![제목](./lion.jpg)  
+---
+<img src="./lion.jpg" width="300" height="200" alt=""/>
 
 ## 인용문
 > HELLO WORLD
@@ -75,8 +78,18 @@ HELLO WORLD<br>
 |내용2|Hello World2222222|zzzzz|
 |내용3|Hello World333333333333|vvvvvvvvvvvv|
 
-## 코드블럭
+## 코드블럭(삼중 백틱(`))
 
+```html
+<!DOCTYPE html>
+<html>
+ <head>
+ </head>
+ <body>
+  <h1>HELLO WORLD</h1>
+ </body>
+</html>
+```
 
 
 
