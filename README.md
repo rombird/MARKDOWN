@@ -62,7 +62,7 @@ HELLO WORLD<br>
 [네이버](https://www.naver.com)
 
 <!-- 새 탭열고 URL로 이동 -->
-<a href="https://www.naver.com" tasrget="_blank">새탭 열고 이동</a>
+<a href="https://naver.com" tasrget="_blank">새탭 열고 이동</a>
 
 
 
