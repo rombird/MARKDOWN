@@ -58,10 +58,11 @@ HELLO WORLD<br>
 - [x] 체크3
 
 ## 링크(바로가기)
-<!-- .[텍스트](URL) -->
+<!-- [텍스트](URL) -->
 [네이버](https://www.naver.com)
 
-
+<!-- 새 탭열고 URL로 이동 -->
+<a href="https://www.naver.com" tasrget="_blank">새탭 열고 이동</a>
 
 
 
